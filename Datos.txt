@@ -1,0 +1,20 @@
+insert into REGISTRO values
+(1,'Paracetamol','Antiflamatorio'),
+(2,'Hivuprofeno','Antiflamatorio'),
+(3,'Colageno','Vitamina'),
+(4,'Pañales','Varios'),
+(5,'Cicatricure','Cicatrizante');
+
+insert into FARMACIA values
+(1,101,'Manta'),
+(2,202,'Montecristi'),
+(3,303,'Jaramijo'),
+(4,404,'Jipijapa'),
+(5,505,'Crucita');
+
+insert into ENTREGA_DE_PRODUCTO values
+(1,101,'28-10-2020'),
+(2,202,'16-11-2020'),
+(3,303,'05-9-2020'),
+(4,404,'02-12-2020'),
+(5,505,'14-10-2020');
